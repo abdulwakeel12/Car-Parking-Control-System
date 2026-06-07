@@ -5,7 +5,6 @@
 > **Institution:** Sukkur IBA University  
 > **Department:** Electrical Engineering  
 > **Course:** Electronic Devices and Circuits  
-> **Instructor:** Dr. Afaque Manzoor Soomro  
 
 ---
 
