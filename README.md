@@ -1,10 +1,10 @@
 # 🚗 Car Parking Control System
 
-> **3rd Semester Project**  
-> **Duration:** October 2021 – February 2022  
-> **Institution:** Sukkur IBA University  
-> **Department:** Electrical Engineering  
-> **Course:** Electronic Devices and Circuits  
+**3rd Semester Project**  
+**Duration:** October 2021 – February 2022  
+**Institution:** Sukkur IBA University  
+**Department:** Electrical Engineering  
+**Course:** Electronic Devices and Circuits  
 
 ---
 
